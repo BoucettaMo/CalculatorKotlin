@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">CalculatorKotlin</string>
+
+    <array name="empty">
+        <item>Units</item>
+    </array>
+    <array name="area">
+
+        <item>square Meters</item>
+        <item>square Kilometers</item>
+        <item>square Miles</item>
+        <item>square Yards</item>
+        <item>square Feet</item>
+        <item>square Inches</item>
+
+    </array>
+
+    <array name="length">
+
+        <item>Meters</item>
+        <item>Kilometers</item>
+        <item>Miles</item>
+        <item>Yards</item>
+        <item>Feet</item>
+        <item>Inches</item>
+
+    </array>
+
+    <array name="temperature">
+        <item>Kelvin K</item>
+        <item>Fahrenheit °F</item>
+        <item>Celsius °C</item>
+
+    </array>
+
+    <array name="volume">
+        <item>liters</item>
+
+        <item>kiloliters</item>
+        <item> ounce fluid US</item>
+
+        <item>pint liquid US</item>
+        <item>quart liquid US</item>
+        <item>gallon liquid US</item>
+
+    </array>
+
+    <array name="mass">
+
+        <item>Grams</item>
+        <item>Kilograms</item>
+
+        <item>Pounds</item>
+        <item>Ounces</item>
+        <item>Quintals</item>
+        <item>Tonnes</item>
+
+
+    </array>
+
+    <array name="data">
+        <item>bytes</item>
+        <item>kilobytes</item>
+        <item>megabytes</item>
+        <item>gigabytes</item>
+        <item>terabytes</item>
+        <item>petabytes</item>
+
+    </array>
+
+    <array name="speed">
+
+        <item>kilometres per hour km/h</item>
+        <item>miles per hour mi/h</item>
+        <item>knots kt</item>
+
+
+    </array>
+
+    <array name="time">
+        <item>Milliseconds</item>
+        <item>Seconds</item>
+        <item>Minutes</item>
+        <item>Hours</item>
+        <item>Days</item>
+        <item>Weeks</item>
+
+    </array>
+
+
+</resources>
